@@ -1,3 +1,5 @@
+# This repository is here for archive purposes. We currently do not have plans to update our book Android How to Program. 
+
 # Android How to Program, 3e
 Code examples for Android How to Program, 3/e
 
